@@ -1,4 +1,4 @@
-export default [
+export default 
 [ {
     "_id": "M101",
     "name": "Introduction to Nails",
@@ -233,5 +233,4 @@ export default [
       }
     ]
   }
-]
 ]
